@@ -1,6 +1,6 @@
 # 📱 SIM800LA SMS Desktop Tool (PyQt5 + PySerial)
 
-A simple and elegant desktop application built with **Python**, **PyQt5**, and **PySerial** to send and read SMS messages using the **SIM800LA GSM module**. Perfect for hobby projects, desktop automation, and testing SIM800-based IoT modules.
+A simple desktop application built with **Python**, **PyQt5**, and **PySerial** to send and read SMS messages using the **SIM800LA GSM module**. Perfect for hobby projects, desktop automation, and testing SIM800-based IoT modules.
 
 ---
 
@@ -10,7 +10,7 @@ A simple and elegant desktop application built with **Python**, **PyQt5**, and *
 - 📥 **Read received SMS** from your SIM card inbox
 - ⚡ Real-time **AT command log**
 - ✅ Easy-to-use **PyQt5 GUI**
-- 💻 Fully offline — no internet needed
+- 💻 Fully offline no internet needed
 
 ---
 
